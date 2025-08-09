@@ -1,54 +1,54 @@
 {
-  "item.endrem.old_eye": "Old Eye",
+  "item.endrem.old_eye": "远古之眼",
   "item.endrem.old_eye.description": "§7§oIt contains perfectly looped time",
 
-  "item.endrem.rogue_eye": "Rogue Eye",
+  "item.endrem.rogue_eye": "无赖之眼",
   "item.endrem.rogue_eye.description": "§7§oAn enderman contained witin a singularity",
 
-  "item.endrem.nether_eye": "Forged Eye",
+  "item.endrem.nether_eye": "锻造之眼",
   "item.endrem.nether_eye.description": "§7§oExpertly crafted",
 
-  "item.endrem.cold_eye": "Cold Eye",
-  "item.endrem.cold_eye.description": "§7§oZero degrees Kelvin",
+  "item.endrem.cold_eye": "寒冰之眼",
+  "item.endrem.cold_eye.description": "§7§o绝对零度",
 
-  "item.endrem.magical_eye": "Magical Eye",
+  "item.endrem.magical_eye": "魔力之眼",
   "item.endrem.magical_eye.description": "§7§oMade by only the elves",
 
-  "item.endrem.black_eye": "Black Eye",
+  "item.endrem.black_eye": "漆黑之眼",
   "item.endrem.black_eye.description": "§7§oEndless space within",
 
-  "item.endrem.lost_eye": "Lost Eye",
+  "item.endrem.lost_eye": "迷离之眼",
   "item.endrem.lost_eye.description": "§7§oLost to an endless library",
 
-  "item.endrem.wither_eye": "Wither Eye",
+  "item.endrem.wither_eye": "凋灵之眼",
   "item.endrem.wither_eye.description": "§7§oHas witnessed destruction",
 
-  "item.endrem.guardian_eye": "Guardian Eye",
+  "item.endrem.guardian_eye": "守卫者之眼",
   "item.endrem.guardian_eye.description": "§7§oIt has seen many warriors drown into the depths of the sea",
 
-  "item.endrem.cursed_eye": "Dragon Eye",
+  "item.endrem.cursed_eye": "龙之眼",
   "item.endrem.cursed_eye.description": "§7§oEchoes with the roars of a dark dragon",
 
-  "item.endrem.exotic_eye": "Exotic Eye",
+  "item.endrem.exotic_eye": "异国之眼",
   "item.endrem.exotic_eye.description": "§7§oThose who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying",
 
-  "item.endrem.evil_eye": "Evil Eye",
+  "item.endrem.evil_eye": "邪恶之眼",
   "item.endrem.evil_eye.description": "§7§oA holy talisman said to protect its owner from bad luck",
 
-  "item.endrem.undead_eye": "Undead Eye",
+  "item.endrem.undead_eye": "不死之眼",
   "item.endrem.undead_eye.description": "§7§oRemembrance of the past lives of those who live in death",
 
-  "item.endrem.cryptic_eye": "Cryptic Eye",
+  "item.endrem.cryptic_eye": "神秘之眼",
   "item.endrem.cryptic_eye.description": "§7§o§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
 
-  "item.endrem.corrupted_eye": "Corrupted Eye",
+  "item.endrem.corrupted_eye": "腐化之眼",
   "item.endrem.corrupted_eye.description": "§7§oThe eye of a greedy king that faded in solitude; legend says it will bring infinite fortune to its owner",
 
-  "item.endrem.witch_eye": "Witch Eye",
+  "item.endrem.witch_eye": "女巫之眼",
   "item.endrem.witch_eye.description": "§7§oThis pupil is believed to have seen the ancient brewing recipes that were lost in time.",
-  "item.endrem.witch_pupil": "Witch Pupil",
+  "item.endrem.witch_pupil": "巫瞳",
 
-  "item.endrem.undead_soul": "Undead Soul",
+  "item.endrem.undead_soul": "不死之魂",
 
   "block.endrem.ancient_portal_frame": "Ancient Portal Frame",
 
@@ -59,7 +59,7 @@
   "block.endrem.custom_eye.broken": "This portal is not built properly",
 
 
-  "itemGroup.endrem.endrem_tab": "End Remastered",
+  "itemGroup.endrem.endrem_tab": "末地重置",
 
   "block.portal_open_sound": "Portal Opening",
   "block.portal_open_sound.sub": "Portal Opening",
