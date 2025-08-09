@@ -1,0 +1,30 @@
+{
+	"item.create.brass_hand": "木质手部零件",
+	"item.create.andesite_alloy": "灰烬合金",
+	"block.create.andesite_scaffolding": "灰烬脚手架",
+  	"block.create.andesite_table_cloth": "灰烬桌面",
+  	"block.create.andesite_tunnel": "灰烬隧道",
+	"block.create.andesite_alloy_block": "灰烬合金块",
+  	"block.create.andesite_bars": "灰烬栏杆",
+  	"block.create.andesite_belt_funnel": "灰烬传送带漏斗",
+  	"block.create.andesite_casing": "灰烬机壳",
+  	"block.create.andesite_door": "灰烬门",
+  	"block.create.andesite_encased_cogwheel": "灰烬齿轮箱",
+  	"block.create.andesite_encased_large_cogwheel": "灰烬大齿轮箱",
+  	"block.create.andesite_encased_shaft": "灰烬传动杆箱",
+  	"block.create.andesite_funnel": "灰烬漏斗",
+  	"block.create.andesite_ladder": "灰烬梯子",
+
+	"advancement.create.andesite_alloy.desc": "获取机械动力中最重要的资源——灰烬合金",
+ 	"advancement.create.andesite_casing": "灰烬时代",
+	"advancement.create.andesite_casing.desc": "对去皮原木使用灰烬合金，为你的机器制作一个基础的机壳",
+
+	"create.ponder.cogwheel_casing.text_1": "黄铜机壳或灰烬机壳可用于装饰齿轮",
+	"create.ponder.brass_funnel.text_1": "灰烬漏斗一次只能提取出一个物品。",
+	"create.ponder.belt_casing.text_1": "你可以用黄铜或者灰烬机壳装饰你的传送带",
+	"create.ponder.andesite_tunnel.text_1": "灰烬隧道可用于遮掩传送带",
+  	"create.ponder.andesite_tunnel.text_2": "当灰烬隧道与侧边有连接时……",
+ 	"create.ponder.andesite_tunnel.text_3": "……经过的所有物品堆都会被精准地分出一个物品",
+  	"create.ponder.andesite_tunnel.text_4": "剩下的物品则不受影响，继续前进",
+	"create.ponder.andesite_tunnel.header": "灰烬隧道用法"
+}
