@@ -1,0 +1,30 @@
+{
+	"item.create.brass_hand": "Wooden Hand",
+	"item.create.andesite_alloy": "Ash Alloy",
+	"block.create.andesite_scaffolding": "Ash Alloy Scaffolding",
+  	"block.create.andesite_table_cloth": "Ash Alloy Table Cover",
+  	"block.create.andesite_tunnel": "Ash Alloy Tunnel",
+	"block.create.andesite_alloy_block": "Block of Ash Alloy",
+  	"block.create.andesite_bars": "Ash Alloy Bars",
+  	"block.create.andesite_belt_funnel": "Ash Alloy Belt Funnel",
+  	"block.create.andesite_casing": "Ash Alloy Casing",
+  	"block.create.andesite_door": "Ash Alloy Door",
+  	"block.create.andesite_encased_cogwheel": "Ash Alloy Encased Cogwheel",
+  	"block.create.andesite_encased_large_cogwheel": "Ash Alloy Encased Large Cogwheel",
+  	"block.create.andesite_encased_shaft": "Ash Alloy Encased Shaft",
+  	"block.create.andesite_funnel": "Ash Alloy Funnel",
+  	"block.create.andesite_ladder": "Ash Alloy Ladder",
+
+	"advancement.create.andesite_alloy.desc": "Obtain some Ash Alloy, Create's most important resource",
+ 	"advancement.create.andesite_casing": "The Ash Alloy Age",
+	"advancement.create.andesite_casing.desc": "Apply Ash Alloy to stripped wood, creating a basic casing for your machines",
+
+	"create.ponder.cogwheel_casing.text_1": "Brass or Ash Alloy Casing can be used to decorate Cogwheels",
+	"create.ponder.brass_funnel.text_1": "Ash Alloy Funnels can only ever extract single items.",
+	"create.ponder.belt_casing.text_1": "Brass or Ash Alloy Casing can be used to decorate Mechanical Belts",
+	"create.ponder.andesite_tunnel.text_1": "Ash Alloy Tunnels can be used to cover up your belts",
+  	"create.ponder.andesite_tunnel.text_2": "Whenever an Ash Alloy Tunnel has connections to the sides...",
+ 	"create.ponder.andesite_tunnel.text_3": "...they will split exactly one item off of any passing stacks",
+  	"create.ponder.andesite_tunnel.text_4": "The remainder will continue on its path",
+	"create.ponder.andesite_tunnel.header": "Using Ash Alloy Tunnels"
+}
