@@ -8,11 +8,11 @@
 
 ---
 
-汉化项目：[Paratranz](https://paratranz.cn/projects/项目)
+汉化项目：[Paratranz](https://paratranz.cn/projects/15786)
 
-汉化发布：[VM 汉化组官网](https://vmct-cn.top/modpacks/项目)
+汉化发布：[VM 汉化组官网](https://vmct-cn.top/modpacks/15786)
 
-译者：[查看贡献者排行榜](https://paratranz.cn/projects/项目/leaderboard)
+译者：[查看贡献者排行榜](https://paratranz.cn/projects/15786/leaderboard)
 
 # 整合包介绍
 
