@@ -1,0 +1,20 @@
+{
+    "name": "Summoning a Skeleton",
+    "icon": "minecraft:skeleton_spawn_egg",
+    "category": "patchouli:basic_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:skeleton",
+			"name": "Summoning a Skeleton",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:soul_shard",
+			"input2": "minecraft:bone",
+			"input3": "minecraft:bone",
+			"input4": "eidolon:soul_shard"
+		}
+]}

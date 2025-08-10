@@ -1,0 +1,20 @@
+{
+    "name": "Summoning a Wraith",
+    "icon": "eidolon:spawn_wraith",
+    "category": "patchouli:basic_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "eidolon:wraith",
+			"name": "Summoning a Wraith",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:soul_shard",
+			"input2": "minecraft:white_wool",
+			"input3": "minecraft:bone",
+			"input4": "eidolon:soul_shard"
+		}
+]}

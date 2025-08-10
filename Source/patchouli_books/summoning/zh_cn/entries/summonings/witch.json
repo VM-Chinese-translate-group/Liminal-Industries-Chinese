@@ -1,0 +1,20 @@
+{
+    "name": "Summoning a Witch",
+    "icon": "minecraft:witch_spawn_egg",
+    "category": "patchouli:lesser_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:witch",
+			"name": "Summoning a Witch",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:lesser_soul_gem",
+			"input2": "minecraft:stick",
+			"input3": "minecraft:glowstone_dust",
+			"input4": "eidolon:lesser_soul_gem"
+		}
+]}

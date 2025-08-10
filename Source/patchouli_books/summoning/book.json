@@ -1,0 +1,8 @@
+{
+    "name": "Summoning 101",
+    "landing_text": "This is a guide about how you summon different entities into the backrooms.",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false,
+	"model": "patchouli:book_red"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Activating the Reality Frame",
+    "icon": "kubejs:data_chip1",
+    "category": "patchouli:multiblock",
+    "pages": [
+	    {
+            "type": "patchouli:spotlight",
+            "item": "kubejs:data_chip1",
+			"title": "Activating",
+			"text": "To activate the Reality Frame, you must right-click the controller with a Data Chip while a Reality Charge is placed above the controller. $(br2)If you have built the structure correctly, then the frame will activate, consume the Reality Charge and start the generation process based on the seed of the Data Chip. The generation should take ~2 minutes."
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "backrooms:data_chip_1",
+			"recipe2": "backrooms:data_chip_2"
+		}
+]}

@@ -1,0 +1,16 @@
+{
+    "name": "Warping in a Black Hole",
+    "icon": "kubejs:data_chip_infinity",
+    "category": "patchouli:multiblock",
+    "pages": [
+	    {
+            "type": "patchouli:spotlight",
+            "item": "kubejs:data_chip_infinity",
+			"title": "Warping in a Black Hole",
+			"text": "With modifications made to the Data Chip you should be able to warp a Black Hole into the backrooms. $(br2)When the black hole is right-clicked with a singularity, it will consume it and drop 3 pieces of antimatter in return."
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "backrooms:data_chip_infinity"
+		}
+]}

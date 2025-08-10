@@ -1,0 +1,20 @@
+{
+    "name": "Summoning a Bee",
+    "icon": "minecraft:bee_spawn_egg",
+    "category": "patchouli:basic_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:bee",
+			"name": "Summoning a Bee",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:soul_shard",
+			"input2": "minecraft:yellow_dye",
+			"input3": "minecraft:black_dye",
+			"input4": "eidolon:soul_shard"
+		}
+]}

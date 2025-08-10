@@ -1,0 +1,49 @@
+{
+    "components": [
+    {
+		"type": "patchouli:image",
+		"image": "kubejs:book_images/brazier.png",
+		"x": 10,
+		"y": 40,
+		"width": 200,
+		"height": 200,
+		"u": 17,
+		"v": 28
+    },
+	{
+		"type": "patchouli:item",
+		"item": "minecraft:charcoal",
+		"framed": "true",
+		"x": 49,
+		"y": 30
+    },
+	{
+		"type": "patchouli:item",
+		"item": "#input1",
+		"framed": "true",
+		"x": 4,
+		"y": 110
+    },
+	{
+		"type": "patchouli:item",
+		"item": "#input2",
+		"framed": "true",
+		"x": 34,
+		"y": 110
+    },
+	{
+		"type": "patchouli:item",
+		"item": "#input3",
+		"framed": "true",
+		"x": 64,
+		"y": 110
+    },
+	{
+		"type": "patchouli:item",
+		"item": "#input4",
+		"framed": "true",
+		"x": 94,
+		"y": 110
+    }
+    ]
+}

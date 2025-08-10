@@ -1,0 +1,35 @@
+{
+    "name": "Constructing a Reality Frame",
+    "icon": "kubejs:reality_controller_running",
+    "category": "patchouli:multiblock",
+    "pages": [
+	    {
+            "type": "patchouli:spotlight",
+            "item": "kubejs:reality_controller_running",
+			"title": "Building a Reality Frame",
+			"text": "Using this book, you can visualise the multiblock structure in your world. That should make constructing it a whole lot easier. $(br2)It is important to note that the controller can be placed on any side and the Reality Charge will be consumed upon usage."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+			"pattern": [
+				[ "FFFFFFFFF", "F       F", "F       F",  "F       F",  "F       F",  "F       F",  "F       F",  "F       F",  "FFFFFFFFF" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "B        ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "FFFFFFFFF", "F       F", "F       F",  "F       F",  "C   0   F",  "F       F",  "F       F",  "F       F",  "FFFFFFFFF" ]
+
+			],
+			"mapping": {
+				"F": "kubejs:reality_frame",
+				"C": "kubejs:reality_controller",
+				"B": "kubejs:reality_charge"
+			},
+			"symmetrical": true
+			}
+		}
+]}
