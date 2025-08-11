@@ -10,7 +10,7 @@
 
 汉化项目：[Paratranz](https://paratranz.cn/projects/15786)
 
-汉化发布：[VM 汉化组官网](https://vmct-cn.top/modpacks/15786)
+汉化发布：[VM 汉化组官网](https://vmct-cn.top/modpacks/liminal-industries)
 
 译者：[查看贡献者排行榜](https://paratranz.cn/projects/15786/leaderboard)
 
