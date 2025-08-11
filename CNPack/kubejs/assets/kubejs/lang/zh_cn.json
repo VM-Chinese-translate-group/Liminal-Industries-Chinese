@@ -125,4 +125,29 @@
     "item.kubejs.data_chip_error": "损坏的数据芯片",
 
     "fluid.kubejs.liquid_time": "时间之流"
+
+    "book.summoning.name":"召唤101",
+    "book.summoning.desc":"这本书能够指导你如何将各种生物召唤到后室中。",
+    "book.reality_frame.name":"如何建造现实框架",
+    "book.reality_frame.desc":"这本书能够指导你如何搭建现实框架的多方块结构。"
+
+    "item.kubejs.data_chip1.tooltip":"种子：1000",
+    "item.kubejs.data_chip2.tooltip":"种子：0100",
+    "item.kubejs.data_chip3.tooltip":"种子：1100",
+    "item.kubejs.data_chip4.tooltip":"种子：0010",
+    "item.kubejs.data_chip5.tooltip":"种子：1010",
+    "item.kubejs.data_chip6.tooltip":"种子：0110",
+    "item.kubejs.data_chip7.tooltip":"种子：1110",
+    "item.kubejs.data_chip8.tooltip":"种子：0001",
+    "item.kubejs.data_chip9.tooltip":"种子：1001",
+    "item.kubejs.data_chip10.tooltip":"种子：0101",
+    "item.kubejs.data_chip_error.tooltip":"数据：1000",
+
+    "escaped.title":"你已逃离",
+    "escaped.subtitle":"后室",
+
+    "chat.creative_mode_test":"你以创造模式进入了世界，点击该文本以前往测试用超平坦世界。",
+    "chat.out_of_backrooms.0":"你尝试建造一个通向未生成区域的传送门。",
+    "chat.out_of_backrooms.1":"从主世界建造通向下界的传送门，",
+    "chat.out_of_backrooms.2":"以确保成功链接。"
 }
