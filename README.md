@@ -60,7 +60,7 @@ Push your creations to their limits to escape into the overworld.
 
 ~英文模组翻译~
 
-帕秋莉翻译
+~帕秋莉翻译~
 
 对话框文本翻译
 
