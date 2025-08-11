@@ -22,7 +22,7 @@
 
 As you find yourself inside the endelessly changing and evolving backrooms.
 
-当你发现自己身处不断变化和发展的密室之中时。
+当你发现自己身处不断变化和发展的后室之中时。
 
 You realise that the only thing standing between you and your escape,
 
@@ -36,7 +36,7 @@ is building your own automated factory in the middle of this liminal place.
 
 Explore, conquer and industrialise the backrooms with tech and magic.
 
-利用科技和魔法探索、征服和工业化幕后空间。
+利用科技和魔法探索、征服和工业化后室。
 
 Collect and repurpose forgotten furniture to fuel your automation endeavours.
 
