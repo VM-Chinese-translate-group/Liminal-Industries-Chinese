@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Witch",
+    "name": "召唤女巫",
     "icon": "minecraft:witch_spawn_egg",
     "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:witch",
-			"name": "Summoning a Witch",
+			"name": "召唤女巫",
 			"scale": 1.0,
 			"rotate": false
         },

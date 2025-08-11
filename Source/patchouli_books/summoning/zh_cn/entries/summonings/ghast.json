@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Ghast",
+    "name": "召唤恶魂",
     "icon": "minecraft:ghast_spawn_egg",
     "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:ghast",
-			"name": "Summoning a Ghast",
+			"name": "召唤恶魂",
 			"scale": 1.0,
 			"rotate": false
         },

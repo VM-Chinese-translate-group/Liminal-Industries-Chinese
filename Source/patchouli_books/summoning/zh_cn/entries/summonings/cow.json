@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Cow",
+    "name": "召唤牛",
     "icon": "minecraft:cow_spawn_egg",
     "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:cow",
-			"name": "Summoning a Cow",
+			"name": "召唤牛",
 			"scale": 1.0,
 			"rotate": false
         },

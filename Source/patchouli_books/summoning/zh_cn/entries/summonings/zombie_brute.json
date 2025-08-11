@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Zombie Brute",
+    "name": "召唤僵尸蛮种",
     "icon": "eidolon:spawn_zombie_brute",
     "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "eidolon:zombie_brute",
-			"name": "Summoning a Zombie Brute",
+			"name": "召唤僵尸蛮种",
 			"scale": 1.0,
 			"rotate": false
         },

@@ -1,13 +1,13 @@
 {
-    "name": "Constructing a Reality Frame",
+    "name": "搭建现实框架",
     "icon": "kubejs:reality_controller_running",
     "category": "patchouli:multiblock",
     "pages": [
 	    {
             "type": "patchouli:spotlight",
             "item": "kubejs:reality_controller_running",
-			"title": "Building a Reality Frame",
-			"text": "Using this book, you can visualise the multiblock structure in your world. That should make constructing it a whole lot easier. $(br2)It is important to note that the controller can be placed on any side and the Reality Charge will be consumed upon usage."
+			"title": "建造现实框架",
+			"text": "你可以用这本书可视化现实框架的多方块结构，大大减轻搭建难度。$(br2)重点注意，现实控制器可以放置在任意底边的中央，现实充能器的能量每次使用后会被消耗。"
 		},
 		{
 			"type": "patchouli:multiblock",

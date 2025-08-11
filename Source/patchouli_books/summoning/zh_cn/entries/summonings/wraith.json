@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Wraith",
+    "name": "召唤幽魂",
     "icon": "eidolon:spawn_wraith",
     "category": "patchouli:basic_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "eidolon:wraith",
-			"name": "Summoning a Wraith",
+			"name": "召唤幽魂",
 			"scale": 1.0,
 			"rotate": false
         },

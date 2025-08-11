@@ -1,12 +1,12 @@
 {
-    "name": "Summoning Dragon Breath",
+    "name": "召唤龙息",
     "icon": "minecraft:dragon_breath",
     "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:spotlight",
             "item": "minecraft:dragon_breath",
-			"title": "Summoning Dragon Breath"
+			"title": "召唤龙息"
         },
 		{
 			"type": "patchouli:brazier",

@@ -1,13 +1,13 @@
 {
-    "name": "Warping in a Black Hole",
+    "name": "传送黑洞",
     "icon": "kubejs:data_chip_infinity",
     "category": "patchouli:multiblock",
     "pages": [
 	    {
             "type": "patchouli:spotlight",
             "item": "kubejs:data_chip_infinity",
-			"title": "Warping in a Black Hole",
-			"text": "With modifications made to the Data Chip you should be able to warp a Black Hole into the backrooms. $(br2)When the black hole is right-clicked with a singularity, it will consume it and drop 3 pieces of antimatter in return."
+			"title": "传送黑洞",
+			"text": "魔改数据芯片可以将黑洞传送到后室中$(br2)手持奇点右击黑洞，奇点将被消耗，并掉落三个反物质靶丸。"
 		},
 		{
             "type": "patchouli:crafting",

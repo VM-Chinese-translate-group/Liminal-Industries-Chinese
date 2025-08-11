@@ -1,12 +1,12 @@
 {
-    "name": "Summoning Cod",
+    "name": "召唤鳕鱼",
     "icon": "minecraft:cod_spawn_egg",
     "category": "patchouli:basic_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:cod",
-			"name": "Summoning Cod",
+			"name": "召唤鳕鱼",
 			"scale": 1.0,
 			"rotate": false
         },

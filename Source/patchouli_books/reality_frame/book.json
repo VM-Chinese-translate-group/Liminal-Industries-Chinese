@@ -1,6 +1,6 @@
 {
-    "name": "Building a Reality Frame",
-    "landing_text": "A guide in how to construct a reality frame multiblock",
+    "name": "如何建造现实框架",
+    "landing_text": "这本书能够指导你如何搭建现实框架的多方块结构。",
     "version": 1,
     "creative_tab": "minecraft:tools_and_utilities",
     "use_resource_pack": false,

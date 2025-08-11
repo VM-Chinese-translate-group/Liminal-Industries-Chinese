@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Rabbit",
+    "name": "召唤兔子",
     "icon": "minecraft:rabbit_spawn_egg",
     "category": "patchouli:basic_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:rabbit",
-			"name": "Summoning a Rabbit",
+			"name": "召唤兔子",
 			"scale": 1.0,
 			"rotate": false
         },

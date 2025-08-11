@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Bee",
+    "name": "召唤蜜蜂",
     "icon": "minecraft:bee_spawn_egg",
     "category": "patchouli:basic_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:bee",
-			"name": "Summoning a Bee",
+			"name": "召唤蜜蜂",
 			"scale": 1.0,
 			"rotate": false
         },

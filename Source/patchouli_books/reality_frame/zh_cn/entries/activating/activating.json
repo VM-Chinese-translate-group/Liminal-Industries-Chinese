@@ -1,13 +1,13 @@
 {
-    "name": "Activating the Reality Frame",
+    "name": "激活现实框架",
     "icon": "kubejs:data_chip1",
     "category": "patchouli:multiblock",
     "pages": [
 	    {
             "type": "patchouli:spotlight",
             "item": "kubejs:data_chip1",
-			"title": "Activating",
-			"text": "To activate the Reality Frame, you must right-click the controller with a Data Chip while a Reality Charge is placed above the controller. $(br2)If you have built the structure correctly, then the frame will activate, consume the Reality Charge and start the generation process based on the seed of the Data Chip. The generation should take ~2 minutes."
+			"title": "激活",
+			"text": "将现实充能器放置在现实控制器上方，手持数据芯片右击现实控制器以激活现实框架。$(br2)如果结构被正确搭建，现实框架将被激活，消耗掉现实充能器中的能量，并根据数据芯片的种子生成不同的方块，生成过程大概需要两分钟。"
 		},
 		{
             "type": "patchouli:crafting",

@@ -1,12 +1,12 @@
 {
-    "name": "Summoning a Zombie",
+    "name": "召唤僵尸",
     "icon": "minecraft:zombie_spawn_egg",
     "category": "patchouli:basic_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "minecraft:zombie",
-			"name": "Summoning a Zombie",
+			"name": "召唤僵尸",
 			"scale": 1.0,
 			"rotate": false
         },
