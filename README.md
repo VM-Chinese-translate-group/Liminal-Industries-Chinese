@@ -62,6 +62,6 @@ Push your creations to their limits to escape into the overworld.
 
 ~帕秋莉翻译~
 
-对话框文本翻译
+~对话框文本翻译~
 
 > 如果项目已经完成，请在仓库设置（`Settings`）中禁用工作流运行。
