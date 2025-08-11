@@ -1,0 +1,8 @@
+{
+    "name": "召唤101",
+    "landing_text": "这本书能够指导你如何将各种生物召唤到后室中。",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false,
+	"model": "patchouli:book_red"
+}
