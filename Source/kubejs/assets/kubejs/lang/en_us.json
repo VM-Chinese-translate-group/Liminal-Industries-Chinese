@@ -150,5 +150,13 @@
     "book.summoning.desc":"This is a guide about how you summon different entities into the backrooms.",
     "book.reality_frame.name":"Building a Reality Frame",
     "book.reality_frame.desc":"A guide in how to construct a reality frame multiblock"
+
+    "event.sculk.rightclick": "You can't place blocks on sculk!",
+    "event.sculk_scrubber.rightclick.0": "Try to place the Sculk Scrubber on the side of a non-sculk block to get it in the right position.",
+    "event.sculk_scrubber.rightclick.1": "You need to place the scrubber on sculk!",
+
+    "cryptic_levelup.title": "Knowlege absorbed, feed me more...",
+    "spread_furniture.success": "Successfully scattered 20 pieces of common furniture in a 300 block radius"
 }
+
 
