@@ -54,7 +54,7 @@ Push your creations to their limits to escape into the overworld.
 
 # 项目进程
 
-任务翻译
+~任务翻译~
 
 ~KubeJS新增物品翻译~
 
