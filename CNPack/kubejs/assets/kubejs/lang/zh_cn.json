@@ -123,6 +123,7 @@
     "item.kubejs.data_chip10": "数据芯片",
     "item.kubejs.data_chip_infinity": "魔改数据芯片",
     "item.kubejs.data_chip_error": "损坏的数据芯片",
+    "item.kubejs.liquid_time_bucket": "时间之流桶",
 
     "fluid.kubejs.liquid_time": "时间之流",
     
@@ -158,6 +159,7 @@
     "cryptic_levelup.title": "知识已吸收，再喂我更多……",
     "spread_furniture.success": "成功在半径300格内散布了20件家具"
 }
+
 
 
 
