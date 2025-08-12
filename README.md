@@ -1,5 +1,5 @@
 <div align="center"> 
-   <h1>Liminal Industries简体中文翻译</h1>
+   <h1>Liminal Industries（阈限工业）简体中文翻译</h1>
 </div>
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
