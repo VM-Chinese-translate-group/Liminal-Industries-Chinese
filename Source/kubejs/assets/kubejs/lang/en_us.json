@@ -145,4 +145,10 @@
     "chat.out_of_backrooms.0":"You tried to build a portal to ungenerated terrain.",
     "chat.out_of_backrooms.1":"Build a portal from the overworld to the nether",
     "chat.out_of_backrooms.2":"to ensure a successful connection."
+    
+    "book.summoning.name":"Summoning 101",
+    "book.summoning.desc":"This is a guide about how you summon different entities into the backrooms.",
+    "book.reality_frame.name":"Building a Reality Frame",
+    "book.reality_frame.desc":"A guide in how to construct a reality frame multiblock"
 }
+
