@@ -100,53 +100,53 @@ BlockEvents.rightClicked('kubejs:reality_controller', event => {
 
 BlockEvents.rightClicked('minecraft:sculk', event => {
 	if (event.item.id == 'kubejs:sculk_scrubber') {
-		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"Try to place the Sculk Scrubber on the side of a non-sculk block to get it in the right position.","color":"white"}`)
+		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk_scrubber.rightclick.0","color":"white"}`)
 		event.cancel()
 	}
 })
 
 BlockEvents.rightClicked('minecraft:sculk', event => {
 	if (event.item.id != 'kubejs:sculk_scrubber') {
-		event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+		event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 		event.cancel()
 	}
 })
 BlockEvents.rightClicked('kubejs:sculk_tendrils', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('minecraft:sculk_vein', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('minecraft:sculk_sensor', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('minecraft:sculk_shrieker', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('kubejs:sculk_shroom', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('kubejs:sculk_slab', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('kubejs:sculk_stairs', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 BlockEvents.rightClicked('minecraft:spawner', event => {
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"You can't place blocks on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run title @a[distance=..7] actionbar {"translate":"event.sculk.rightclick","color":"white"}`)
 	event.cancel()
 })
 
 BlockEvents.rightClicked('kubejs:sculk_scrubber', event => {
 	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} if block ~ ~-1 ~ minecraft:sculk run summon marker ~ ~ ~ {Tags:["scrubber"]}`)
-	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} unless block ~ ~-1 ~ minecraft:sculk run title @a[distance=..5] actionbar {"translate":"You need to place the scrubber on sculk!","color":"white"}`)
+	event.server.runCommandSilent(`execute in ${event.block.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} unless block ~ ~-1 ~ minecraft:sculk run title @a[distance=..5] actionbar {"translate":"event.sculk_scrubber.rightclick.1","color":"white"}`)
 })
 
 BlockEvents.rightClicked('eidolon:shadow_gem_block', event => {
