@@ -1,12 +1,12 @@
 {
   "modpack": {
-    "name": "名字",
-    "version": "整合包版本（无用）",
+    "name": "Liminal Industries",
+    "version": "1.17",
     "translation": {
-      "url": "https://vmct-cn.top/modpacks/官网页面/",
+      "id": "liminal-industries",
+      "url": "https://vmct-cn.top/modpacks/liminal-industries/",
       "language": "zh_cn",
-      "version": "汉化版本1.0.0",
-      "updateCheckUrl": "https://gitee.com/Wulian233/vmtu/raw/main/update/联系捂脸.txt",
+      "version": "1.0.0",
       "resourcePackName": "VM汉化组模组汉化包1.19及以上"
     }
   }
