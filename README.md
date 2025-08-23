@@ -60,6 +60,9 @@ Push your creations to their limits to escape into the overworld.
 
 # 项目进程
 
-正在更新至1.18版本
+- 正在更新至1.18版本
+
+- Storage Shelves模组翻译
+
 
 > 如果项目已经完成，请在仓库设置（`Settings`）中禁用工作流运行。
