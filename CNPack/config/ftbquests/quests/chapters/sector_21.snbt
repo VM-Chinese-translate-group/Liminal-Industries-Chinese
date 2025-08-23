@@ -1,0 +1,851 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sector_21"
+	group: ""
+	icon: "create:steam_engine"
+	id: "63270855244ED0BB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["541234B688B98E86"]
+			description: [
+				"{ftbquests.chapter.sector_21.quest1.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest1.description2}"
+			]
+			icon: "supplementaries:ash"
+			id: "22FF287969C58B70"
+			rewards: [{
+				count: 10
+				id: "0F48B1CD708333BF"
+				item: "supplementaries:ash"
+				type: "item"
+			}]
+			shape: "circle"
+			subtitle: "{ftbquests.chapter.sector_21.quest1.subtitle}"
+			tasks: [
+				{
+					id: "4560621272125845"
+					item: {
+						Count: 1
+						id: "minecraft:flint_and_steel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09BE5840BA51E445"
+					item: {
+						Count: 1
+						id: "minecraft:stone_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2A98592022F3D424"
+					item: { Count: 5, id: "supplementaries:ash" }
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest1.title}"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"22FF287969C58B70"
+				"541234B688B98E86"
+			]
+			id: "14AF78F1E790FC36"
+			rewards: [{
+				id: "61B8EB29939587CB"
+				item: "create:wrench"
+				type: "item"
+			}]
+			subtitle: "{ftbquests.chapter.sector_21.quest2.subtitle}"
+			tasks: [{
+				id: "08A7B6A04AE342A6"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["594A42AEFA0A83BA"]
+			icon: "create:crushing_wheel"
+			id: "1A5679134A610FF2"
+			shape: "gear"
+			tasks: [
+				{
+					count: 2L
+					id: "64279A17589CDD10"
+					item: "create:crushing_wheel"
+					type: "item"
+				}
+				{
+					id: "15D4A57CED9E7327"
+					item: "create:belt_connector"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest3.title}"
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"1BFE1926B47FD92D"
+				"06DADC2BB0854FB1"
+			]
+			description: [
+				"{ftbquests.chapter.sector_21.quest4.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest4.description2}"
+				""
+				"{ftbquests.chapter.sector_21.quest4.description3}"
+				""
+				"{ftbquests.chapter.sector_21.quest4.description4}"
+				""
+				"{ftbquests.chapter.sector_21.quest4.description5}"
+				""
+				"{ftbquests.chapter.sector_21.quest4.description6}"
+				""
+				"{ftbquests.chapter.sector_21.quest4.image0}"
+			]
+			icon: "create:steam_engine"
+			id: "594A42AEFA0A83BA"
+			rewards: [
+				{
+					id: "7B9FF4CD15F22D1F"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "528BBD2E556BE484"
+					item: "create:goggles"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{ftbquests.chapter.sector_21.quest4.subtitle}"
+			tasks: [
+				{
+					id: "0D13D3BFC3429D9F"
+					item: "create:steam_engine"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "55E3F0676C10222E"
+					item: { Count: 4, id: "create:fluid_tank" }
+					type: "item"
+				}
+				{
+					id: "73D70B8AE2F77131"
+					item: "createlowheated:basic_burner"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "549465DA939C6347"
+					item: { Count: 3, id: "create:fluid_pipe" }
+					type: "item"
+				}
+				{
+					id: "19DAB05B45BD6463"
+					item: "create:mechanical_pump"
+					type: "item"
+				}
+				{
+					id: "596D8CE6FF67748D"
+					item: "create:hand_crank"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest4.title}"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0D014F9EC35B1333"
+				"06DADC2BB0854FB1"
+			]
+			icon: "create:copper_nugget"
+			id: "1BFE1926B47FD92D"
+			tasks: [
+				{
+					count: 3L
+					id: "6715118D2D6FBD2F"
+					item: "create:fluid_pipe"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "43E74BE23E369443"
+					item: { Count: 5, id: "create:copper_nugget" }
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest5.title}"
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["14AF78F1E790FC36"]
+			icon: "create:mechanical_press"
+			id: "0D014F9EC35B1333"
+			rewards: [{
+				count: 3
+				id: "61B2C6D2D4F2269B"
+				item: "supplementaries:pancake"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.0d
+			tasks: [
+				{
+					id: "2EBC0F856411C837"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+				{
+					id: "3CB05BDB2BF3E53A"
+					item: "create:basin"
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14AF78F1E790FC36"]
+			id: "06DADC2BB0854FB1"
+			rewards: [{
+				id: "62470CB9E64072BC"
+				item: "woodenhopper:wooden_hopper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3933B16D8B5B8473"
+				item: "createlowheated:basic_burner"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.sector_21.quest7.title}"
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14AF78F1E790FC36"]
+			icon: "immersiveengineering:coke_oven"
+			id: "5782203B2280911B"
+			rewards: [{
+				id: "62D66E5C5A3009C5"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{ftbquests.chapter.sector_21.quest8.subtitle}"
+			tasks: [
+				{
+					id: "5542F176D47F2C41"
+					item: "immersiveengineering:cokebrick"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6757C61362897546"
+					item: { Count: 8, id: "immersiveengineering:treated_wood_horizontal" }
+					type: "item"
+				}
+				{
+					id: "15B8F415ACA758A5"
+					item: "immersiveengineering:coke_oven"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest8.title}"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5782203B2280911B"]
+			description: [
+				"{ftbquests.chapter.sector_21.quest9.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest9.description2}"
+			]
+			icon: "thermal:charcoal_block"
+			id: "2301997FBD95F04C"
+			tasks: [{
+				id: "72317B15FCD063EC"
+				item: "thermal:charcoal_block"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.sector_21.quest9.title}"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"{ftbquests.chapter.sector_21.quest10.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest10.description2}"
+			]
+			id: "021C50BEE88E0B07"
+			rewards: [
+				{
+					id: "36AFB541A92C8E45"
+					item: "minecraft:music_disc_pigstep"
+					type: "item"
+				}
+				{
+					id: "375270AFB42E4609"
+					item: "plushie_buddies:plushie_ghast"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "{ftbquests.chapter.sector_21.quest10.subtitle}"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "29B5E3BFD5FBF7D5"
+				title: "{ftbquests.chapter.sector_21.quest10.task_3005558739407992789.title}"
+				type: "dimension"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["021C50BEE88E0B07"]
+			icon: "supplementaries:checker_block"
+			id: "780450B76916CDB7"
+			rewards: [{
+				id: "4A625113C256BB24"
+				item: {
+					Count: 1
+					id: "table_top_craft:oak_chess"
+					tag: {
+						BlockEntityTag: {
+							ChessValues: {
+								AttackMoveColor: "255/1/1/100"
+								BlackCheckMate: 0b
+								BlackPiecesColor: "51/51/51/255"
+								BlackTilesColor: "139/86/57/255"
+								BoardFEN: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 0"
+								CastleMoveColor: "125/1/255/100"
+								DisplayParticles: 1
+								FirstMoves: "0/1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/48/49/50/51/52/53/54/55/56/57/58/59/60/61/62/63"
+								HumanMovedPiece: -1
+								InvalidMoveColor: "255/255/1/100"
+								IsBlackCastled: 0b
+								IsWhiteCastled: 0b
+								LegalMoveColor: "1/255/1/100"
+								MoveLog: [ ]
+								PieceSet: 1
+								PlayPieceAnimations: 1
+								PreviousMoveColor: "1/150/125/100"
+								PromotionCoordinate: -1b
+								ShowAvailableMoves: 0
+								ShowPreviousMove: 0
+								ShowTileInfo: 0
+								SourceTile: -1
+								TileInfoColor: "255/255/255/255"
+								UseCustomPlate: 0
+								WaitingForPromotion: 0
+								WhiteCheckMate: 0b
+								WhitePiecesColor: "210/188/161/255"
+								WhiteTilesColor: "208/177/141/255"
+							}
+							ForgeCaps: { }
+							id: "table_top_craft:chess"
+						}
+						display: {
+							Lore: ["\"(+NBT)\""]
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "{ftbquests.chapter.sector_21.quest11.subtitle}"
+			tasks: [
+				{
+					id: "2936C3ED16FB1828"
+					item: "supplementaries:checker_block"
+					type: "item"
+				}
+				{
+					id: "29EF2A8D122D178C"
+					item: "minecraft:quartz"
+					type: "item"
+				}
+				{
+					id: "3AA0551231908748"
+					item: "actuallyadditions:black_quartz"
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"780450B76916CDB7"
+				"571118233A7F0DA3"
+			]
+			id: "5A988566BC220234"
+			tasks: [{
+				id: "16C2A7EC029D4146"
+				item: "immersiveengineering:component_electronic"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["203FC15B09EAA27F"]
+			id: "541234B688B98E86"
+			size: 3.0d
+			tasks: [{
+				id: "55DF6C1569B150BA"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.sector_21.quest13.title}"
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"5A988566BC220234"
+				"1A5679134A610FF2"
+			]
+			description: ["{ftbquests.chapter.sector_21.quest14.description1}"]
+			icon: "tconstruct:smeltery_controller"
+			id: "60DCFFC671BBD126"
+			rewards: [
+				{
+					id: "30C8C255AB9470AB"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "61BCAF221BCCC746"
+					item: "minecraft:music_disc_otherside"
+					type: "item"
+				}
+				{
+					id: "3CA71AF2DF9FE03B"
+					item: "refurbished_furniture:light_fridge"
+					type: "item"
+				}
+				{
+					id: "236EAA963388D69D"
+					item: "plushie_buddies:plushie_iron_golem"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 3.0d
+			subtitle: "{ftbquests.chapter.sector_21.quest14.subtitle}"
+			tasks: [
+				{
+					id: "18D0C2E2D411293A"
+					item: "tconstruct:smeltery_controller"
+					type: "item"
+				}
+				{
+					id: "5D1A844F35BC20F7"
+					item: "tconstruct:seared_drain"
+					type: "item"
+				}
+				{
+					id: "139972A5FE7888B0"
+					item: "tconstruct:seared_faucet"
+					type: "item"
+				}
+				{
+					id: "1D1994D0F7461108"
+					item: "tconstruct:seared_table"
+					type: "item"
+				}
+				{
+					id: "7D740EBC95632C6F"
+					item: "tconstruct:seared_fuel_tank"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest14.title}"
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["541234B688B98E86"]
+			description: [""]
+			id: "1773F3D3ECBC4923"
+			rewards: [{
+				id: "04F52658209EF665"
+				item: "botania:lexicon"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{ftbquests.chapter.sector_21.quest15.subtitle}"
+			tasks: [{
+				id: "0E093878C6AA093A"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["495E194ACEFD9CD7"]
+			id: "2B462CBD198F53F7"
+			tasks: [{
+				id: "0BE20FD7C74DA1E5"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"5782203B2280911B"
+				"2B462CBD198F53F7"
+			]
+			description: ["{ftbquests.chapter.sector_21.quest17.description1}"]
+			icon: "botania:livingwood"
+			id: "4EFCB9F8F9EDC5EB"
+			tasks: [{
+				count: 8L
+				id: "1CC0DB91848B0BFC"
+				item: "botania:livingwood"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.sector_21.quest17.title}"
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4EFCB9F8F9EDC5EB"]
+			id: "571118233A7F0DA3"
+			shape: "gear"
+			tasks: [{
+				id: "177001536B1F99A0"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1773F3D3ECBC4923"]
+			id: "60885F74323E143A"
+			tasks: [
+				{
+					id: "1258CCBED9626C98"
+					item: "thermal:redstone_mushroom_spores"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "47FA42D7346B3C5F"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"1773F3D3ECBC4923"
+				"22FF287969C58B70"
+			]
+			description: [
+				"{ftbquests.chapter.sector_21.quest20.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest20.description2}"
+			]
+			icon: "botania:fertilizer"
+			id: "495E194ACEFD9CD7"
+			rewards: [
+				{
+					count: 5
+					id: "582C501AB1860969"
+					item: "botania:fertilizer"
+					type: "item"
+				}
+				{
+					id: "75C4CA1A7F3D3F42"
+					item: "botania:flower_bag"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.sector_21.quest20.subtitle}"
+			tasks: [
+				{
+					id: "6C87F9E5B39111AD"
+					item: "berry_good:sweet_berry_pips"
+					type: "item"
+				}
+				{
+					id: "0B2ABB2BB3C850AC"
+					item: "supplementaries:ash"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "04772AEB0EDB9BB5"
+					item: { Count: 2, id: "minecraft:yellow_dye" }
+					type: "item"
+				}
+				{
+					id: "1D8D76EAA77D721A"
+					item: "botania:fertilizer"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest20.title}"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1A5679134A610FF2"]
+			description: [
+				"{ftbquests.chapter.sector_21.quest21.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest21.description2}"
+				""
+				"{ftbquests.chapter.sector_21.quest21.description3}"
+			]
+			icon: "minecraft:sugar_cane"
+			id: "2A93ADA6EAA0C7EB"
+			tasks: [
+				{
+					id: "1D1B056BCACA1685"
+					item: "minecraft:sugar_cane"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "391152D4E83414B7"
+					item: { Count: 5, id: "snad:snad" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"1BFE1926B47FD92D"
+				"2A93ADA6EAA0C7EB"
+			]
+			description: [
+				"{ftbquests.chapter.sector_21.quest22.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest22.description2}"
+			]
+			icon: "brewinandchewin:sweet_berry_jam"
+			id: "347FB9BA17B5C66C"
+			rewards: [
+				{
+					count: 3
+					id: "5FC9403C7D55E44E"
+					item: "brewinandchewin:sweet_berry_jam"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "17A1A221FE5B4639"
+					item: "brewinandchewin:coaster"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "263E3E78F0C20DD0"
+					item: "refurbished_furniture:sweet_berry_jam_toast"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.sector_21.quest22.subtitle}"
+			tasks: [
+				{
+					id: "225D62380594BB5A"
+					item: "miners_delight:copper_pot"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "26EC23B48D974895"
+					item: "minecraft:sweet_berries"
+					type: "item"
+				}
+				{
+					id: "77F4A59277554934"
+					item: "minecraft:sugar"
+					type: "item"
+				}
+				{
+					id: "7566EDF33A22D38E"
+					item: "minecraft:glass_bottle"
+					type: "item"
+				}
+				{
+					id: "33C7B97B21FB8994"
+					item: "brewinandchewin:sweet_berry_jam"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest22.title}"
+			x: -5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["021C50BEE88E0B07"]
+			description: [
+				"{ftbquests.chapter.sector_21.quest23.description1}"
+				"{ftbquests.chapter.sector_21.quest23.description2}"
+				""
+				"{ftbquests.chapter.sector_21.quest23.description3}"
+				""
+				""
+				"{ftbquests.chapter.sector_21.quest23.image0}"
+			]
+			id: "12F6EDB7B3074DBA"
+			shape: "hexagon"
+			subtitle: "{ftbquests.chapter.sector_21.quest23.subtitle}"
+			tasks: [{
+				id: "0E50ED4115F134D3"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4EFCB9F8F9EDC5EB"]
+			description: [
+				"{ftbquests.chapter.sector_21.quest24.description1}"
+				"{ftbquests.chapter.sector_21.quest24.description2}"
+				""
+				"{ftbquests.chapter.sector_21.quest24.description3}"
+			]
+			icon: "immersiveengineering:coal_coke"
+			id: "2138ADDDF2575A11"
+			tasks: [{
+				id: "15D84F269B0AF727"
+				title: "{ftbquests.chapter.sector_21.quest24.task_1574095096994527015.title}"
+				type: "checkmark"
+			}]
+			title: "{ftbquests.chapter.sector_21.quest24.title}"
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["495E194ACEFD9CD7"]
+			description: [
+				"{ftbquests.chapter.sector_21.quest25.description1}"
+				""
+				"{ftbquests.chapter.sector_21.quest25.description2}"
+				""
+				"{ftbquests.chapter.sector_21.quest25.description3}"
+				""
+				"{ftbquests.chapter.sector_21.quest25.description4}"
+			]
+			icon: "xercapaint:item_easel"
+			id: "63B870600FBEBB1D"
+			rewards: [
+				{
+					count: 3
+					id: "5789C0B118C49A62"
+					item: "exposure:color_film"
+					type: "item"
+				}
+				{
+					id: "2B756AE011DB6C24"
+					item: "xercapaint:item_palette"
+					type: "item"
+				}
+			]
+			subtitle: "{ftbquests.chapter.sector_21.quest25.subtitle}"
+			tasks: [
+				{
+					id: "4C1121ADF7D94181"
+					item: "xercapaint:item_easel"
+					type: "item"
+				}
+				{
+					id: "180A2276E1F5CB5C"
+					item: "xercapaint:item_canvas"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest25.title}"
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["021C50BEE88E0B07"]
+			description: ["{ftbquests.chapter.sector_21.quest26.description1}"]
+			icon: "sophisticatedbackpacks:backpack"
+			id: "20CA5E31A6BC6960"
+			rewards: [
+				{
+					id: "469EB7AEC1EE8012"
+					item: "sophisticatedbackpacks:advanced_jukebox_upgrade"
+					type: "item"
+				}
+				{
+					id: "448C208C5E454147"
+					item: "sophisticatedbackpacks:pickup_upgrade"
+					type: "item"
+				}
+				{
+					id: "355706B93C7F1166"
+					item: "sophisticatedbackpacks:deposit_upgrade"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 3L
+					id: "4EF694C2C87272F0"
+					item: { Count: 3, id: "minecraft:leather" }
+					type: "item"
+				}
+				{
+					id: "01DCD5B62C93BBD5"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.sector_21.quest26.title}"
+			x: 7.5d
+			y: 5.0d
+		}
+	]
+	title: "{ftbquests.chapter.sector_21.title}"
+}
