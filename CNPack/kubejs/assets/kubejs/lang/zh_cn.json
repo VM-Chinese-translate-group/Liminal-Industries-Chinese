@@ -5,13 +5,26 @@
     "block.kubejs.wallpaper4": "壁纸",
     "block.kubejs.wallpaper5": "壁纸",
     "block.kubejs.wallpaper6": "壁纸",
+    "block.kubejs.wallpaper7": "壁纸",
     "block.kubejs.wallpaper_soft": "壁纸",
     "block.kubejs.wallpaper_fake": "假壁纸",
     "block.kubejs.wallpaper1_slab": "壁纸台阶",
-    "block.kubejs.pool_tiles": "泳池瓷砖",
-    "block.kubejs.long_pool_tiles": "泳池瓷砖",
     "block.kubejs.wallpaper5_slab": "酒店墙台阶",
     "block.kubejs.stripped_wallpaper": "去皮壁纸",
+    
+    "block.kubejs.pool_tiles": "泳池瓷砖",
+    "block.kubejs.pool_tiles_soft": "泳池瓷砖",
+    "block.kubejs.pool_tiles_slab": "泳池瓷砖台阶",
+    "block.kubejs.pool_tiles_stairs": "泳池瓷砖楼梯",
+    "block.kubejs.long_pool_tiles": "泳池瓷砖",
+    "block.kubejs.long_pool_tiles_soft": "泳池瓷砖",
+    "block.kubejs.long_pool_tiles_slab": "泳池瓷砖台阶",
+    "block.kubejs.long_pool_tiles_stairs": "泳池瓷砖楼梯",
+    "block.kubejs.pool_locker_single": "泳池储物柜",
+    "block.kubejs.pool_locker_double": "泳池储物柜",
+    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
+    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
+    
     "block.kubejs.ceilling": "天花板",
     "block.kubejs.ceilling2": "天花板",
     "block.kubejs.ceilling_frame": "天花板框架",
@@ -123,9 +136,11 @@
     "item.kubejs.data_chip10": "数据芯片",
     "item.kubejs.data_chip_infinity": "魔改数据芯片",
     "item.kubejs.data_chip_error": "损坏的数据芯片",
-    "item.kubejs.liquid_time_bucket": "时间之流桶",
-
+    
     "fluid.kubejs.liquid_time": "时间之流",
+    "item.kubejs.liquid_time_bucket": "时间之流桶",
+    "fluid.kubejs.ball_pit": "海洋球",
+    "item.kubejs.ball_pit_bucket": "海洋球桶",
     
     "item.kubejs.data_chip1.tooltip":"种子：1000",
     "item.kubejs.data_chip2.tooltip":"种子：0100",
@@ -159,6 +174,8 @@
     "cryptic_levelup.title": "知识已吸收，再喂我更多……",
     "spread_furniture.success": "成功在半径300格内散布了20件家具"
 }
+
+
 
 
 
