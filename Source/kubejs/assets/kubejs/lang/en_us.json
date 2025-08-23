@@ -5,13 +5,26 @@
     "block.kubejs.wallpaper4": "Wallpaper",
     "block.kubejs.wallpaper5": "Wallpaper",
     "block.kubejs.wallpaper6": "Wallpaper",
+    "block.kubejs.wallpaper7": "Wallpaper",
     "block.kubejs.wallpaper_soft": "Wallpaper",
     "block.kubejs.wallpaper_fake": "Fake Wallpaper",
     "block.kubejs.wallpaper1_slab": "Wallpaper Slab",
-    "block.kubejs.pool_tiles": "Pool Tiles",
-    "block.kubejs.long_pool_tiles": "Pool Tiles",
     "block.kubejs.wallpaper5_slab": "Hotel Wall Slab",
     "block.kubejs.stripped_wallpaper": "Stripped Wallpaper",
+    
+    "block.kubejs.pool_tiles": "Pool Tiles",
+    "block.kubejs.pool_tiles_soft": "Pool Tiles",
+    "block.kubejs.pool_tiles_slab": "Pool Tiles Slab",
+    "block.kubejs.pool_tiles_stairs": "Pool Tiles Stairs",
+    "block.kubejs.long_pool_tiles": "Pool Tiles",
+    "block.kubejs.long_pool_tiles_soft": "Pool Tiles",
+    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
+    "block.kubejs.long_pool_tiles_stairs": "Pool Tiles Stairs",
+    "block.kubejs.pool_locker_single": "Pool Locker",
+    "block.kubejs.pool_locker_double": "Pool Locker",
+    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
+    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
+    
     "block.kubejs.ceilling": "Ceiling",
     "block.kubejs.ceilling2": "Ceiling",
     "block.kubejs.ceilling_frame": "Ceiling Frame",
@@ -126,6 +139,7 @@
     "item.kubejs.liquid_time_bucket": "The Flow of Time Bucket",
 
     "fluid.kubejs.liquid_time": "The Flow of Time",
+    "fluid.kubejs.ball_pit": "Ball Pit",
     
     "item.kubejs.data_chip1.tooltip":"Seed: 1000",
     "item.kubejs.data_chip2.tooltip":"Seed: 0100",
@@ -159,6 +173,7 @@
     "cryptic_levelup.title": "Knowlege absorbed, feed me more...",
     "spread_furniture.success": "Successfully scattered 20 pieces of common furniture in a 300 block radius"
 }
+
 
 
 
