@@ -126,6 +126,11 @@
 		{
 			dependencies: ["246A2048B0070B20"]
 			id: "18FCA774852345F8"
+			rewards: [{
+				id: "362FA478E39125BB"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "4455C5CDD263A976"
@@ -146,6 +151,11 @@
 				"{ftbquests.chapter.sector_3.quest6.description4}"
 			]
 			id: "796F86181DD720D0"
+			rewards: [{
+				id: "3B70A9C3C17B9A70"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "5F2057FCC8BA543A"
@@ -245,6 +255,11 @@
 			dependencies: ["4969351B16EAD7FF"]
 			icon: "create:track"
 			id: "6D5B52045E758240"
+			rewards: [{
+				id: "6F2FDC2665769FE4"
+				item: "create:track_station"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "3E2A2E60619CD342"
@@ -314,6 +329,11 @@
 			dependencies: ["73CAD8D4E107FD6A"]
 			description: ["{ftbquests.chapter.sector_3.quest14.description1}"]
 			id: "1BB79E9A49046DE9"
+			rewards: [{
+				id: "75F053B1E7142634"
+				item: "plushie_buddies:plushie_blaze"
+				type: "item"
+			}]
 			shape: "gear"
 			subtitle: "{ftbquests.chapter.sector_3.quest14.subtitle}"
 			tasks: [
@@ -340,9 +360,8 @@
 			]
 			id: "572AD4DE946B6915"
 			rewards: [{
-				count: 2
-				id: "17F7755646031A7E"
-				item: "farmersdelight:melon_popsicle"
+				id: "68CB0D6634F7DABB"
+				item: "kubejs:party_popper"
 				type: "item"
 			}]
 			size: 2.0d
@@ -357,6 +376,11 @@
 		{
 			dependencies: ["572AD4DE946B6915"]
 			id: "63DEC531E6BDC084"
+			rewards: [{
+				id: "22034A1F8E4D3B41"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "4F415897434A12F8"
@@ -381,6 +405,11 @@
 		{
 			dependencies: ["572AD4DE946B6915"]
 			id: "2514C72B5F5115B8"
+			rewards: [{
+				id: "583F84D73971A9CC"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "541BD91F61DFA3BF"
@@ -424,6 +453,11 @@
 		{
 			dependencies: ["572AD4DE946B6915"]
 			id: "1C6DE105C85C708E"
+			rewards: [{
+				id: "69D03A1E1480EFF0"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "47484DF07E9AE61D"
@@ -532,7 +566,16 @@
 				}
 				{
 					id: "5DBE9819BDA91586"
-					item: "botania:record_gaia_1"
+					item: "minecraft:music_disc_strad"
+					type: "item"
+				}
+				{
+					id: "070ADB59E45BE894"
+					item: {
+						Count: 1
+						id: "plushie_buddies:plushie_enderman"
+						tag: { }
+					}
 					type: "item"
 				}
 			]
@@ -630,6 +673,11 @@
 		{
 			dependencies: ["572AD4DE946B6915"]
 			id: "4075EE5CDFF9DAFA"
+			rewards: [{
+				id: "08EDF55C825EEE0E"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "571487D0A3489C6E"
@@ -674,6 +722,11 @@
 				"{ftbquests.chapter.sector_3.quest27.description2}"
 			]
 			id: "37FD897CA97FD28D"
+			rewards: [{
+				id: "7104DE394EEDCCE4"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "07A18CB85EEBDCA2"
@@ -692,6 +745,11 @@
 		{
 			dependencies: ["572AD4DE946B6915"]
 			id: "36FA0B2177D6D17C"
+			rewards: [{
+				id: "26D939D2CADFD382"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "088E3F28A15B75D8"
@@ -713,6 +771,11 @@
 				"{ftbquests.chapter.sector_3.quest29.description4}"
 			]
 			id: "64C1F773CA05847E"
+			rewards: [{
+				id: "2AF12D20B6E9DB01"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "{ftbquests.chapter.sector_3.quest29.subtitle}"
@@ -791,18 +854,11 @@
 			dependencies: ["246A2048B0070B20"]
 			description: ["{ftbquests.chapter.sector_3.quest32.description1}"]
 			id: "7BC25405C23D7BDF"
-			rewards: [
-				{
-					id: "30A070C3FE269357"
-					item: "kubejs:party_popper"
-					type: "item"
-				}
-				{
-					id: "646F89AC07D14E8D"
-					item: "supplementaries:confetti_popper"
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "30A070C3FE269357"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "{ftbquests.chapter.sector_3.quest32.subtitle}"
@@ -825,7 +881,13 @@
 		{
 			description: ["{ftbquests.chapter.sector_3.quest33.description1}"]
 			id: "2DB91AF3467FDD67"
+			rewards: [{
+				id: "230E39F74096FB19"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
 			shape: "gear"
+			size: 2.0d
 			tasks: [{
 				id: "08FB63673650683C"
 				item: "botania:terra_plate"
@@ -842,6 +904,11 @@
 				"{ftbquests.chapter.sector_3.quest34.description2}"
 			]
 			id: "6762380EB7B4FB9A"
+			rewards: [{
+				id: "0F3FD25F8CEB2DC5"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "1D2EC5F6CB2C5D41"
@@ -859,6 +926,11 @@
 				"{ftbquests.chapter.sector_3.quest35.description2}"
 			]
 			id: "7DB91F364892F863"
+			rewards: [{
+				id: "2399EA647B97BDF0"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "4CEDF492E888799C"
@@ -1040,8 +1112,8 @@
 			icon: "mekanism:dimensional_stabilizer"
 			id: "6A05A3E430180A39"
 			rewards: [{
-				id: "449FFDBE33180E9B"
-				item: "create:track_station"
+				id: "0274E9E9E5456FAA"
+				item: "supplementaries:confetti_popper"
 				type: "item"
 			}]
 			subtitle: "{ftbquests.chapter.sector_3.quest40.subtitle}"
