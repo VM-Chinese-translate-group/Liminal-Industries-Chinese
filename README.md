@@ -60,18 +60,6 @@ Push your creations to their limits to escape into the overworld.
 
 # 项目进程
 
-~任务翻译~
-
-~KubeJS新增物品翻译~
-
-~英文模组翻译~
-
-~帕秋莉翻译~
-
-~对话框文本翻译~
-
-~写翻译键~
-
-~汉化新翻译键~
+正在更新至1.18版本
 
 > 如果项目已经完成，请在仓库设置（`Settings`）中禁用工作流运行。
