@@ -136,10 +136,11 @@
     "item.kubejs.data_chip10": "Data Chip",
     "item.kubejs.data_chip_infinity": "Modified Data Chip",
     "item.kubejs.data_chip_error": "Broken Data Chip",
-    "item.kubejs.liquid_time_bucket": "The Flow of Time Bucket",
-
+    
     "fluid.kubejs.liquid_time": "The Flow of Time",
+    "item.kubejs.liquid_time_bucket": "The Flow of Time Bucket",
     "fluid.kubejs.ball_pit": "Ball Pit",
+    "item.kubejs.ball_pit_bucket": "Ball Pit Bucket",
     
     "item.kubejs.data_chip1.tooltip":"Seed: 1000",
     "item.kubejs.data_chip2.tooltip":"Seed: 0100",
@@ -173,6 +174,7 @@
     "cryptic_levelup.title": "Knowlege absorbed, feed me more...",
     "spread_furniture.success": "Successfully scattered 20 pieces of common furniture in a 300 block radius"
 }
+
 
 
 
