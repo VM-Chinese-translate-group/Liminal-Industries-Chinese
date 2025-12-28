@@ -60,11 +60,11 @@ Push your creations to their limits to escape into the overworld.
 
 # 项目进程
 
-正在更新至1.18版本
+正在更新至1.19.1版本
 
-~新增模组翻译~
+同步最新kubejs
 
-~kubejs新增翻译~
+检查是否有未翻译的新模组添加
 
 
 > 如果项目已经完成，请在仓库设置（`Settings`）中禁用工作流运行。
