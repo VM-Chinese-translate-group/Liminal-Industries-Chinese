@@ -1,0 +1,19 @@
+{
+  "block.lipoolroomsadditions.oak_pool_chair_back": "Oak Pool Chair",
+  "block.lipoolroomsadditions.oak_pool_chair_front": "Oak Pool Chair",
+  "block.lipoolroomsadditions.oil_treated_oak_pool_chair_back": "Oil Treated Oak Pool Chair",
+  "block.lipoolroomsadditions.oil_treated_oak_pool_chair_front": "Oil Treated Oak Pool Chair",
+  "block.lipoolroomsadditions.white_painted_oak_pool_chair_back": "White Painted Oak Pool Chair",
+  "block.lipoolroomsadditions.white_painted_oak_pool_chair_front": "White Painted Oak Pool Chair",
+  "block.lipoolroomsadditions.pool_railing_bend_inner": "Pool Railing Bend Inner",
+  "block.lipoolroomsadditions.pool_railing_bend_outer": "Pool Railing Bend Outer",
+  "block.lipoolroomsadditions.pool_railing_end_l": "Pool Railing End L",
+  "block.lipoolroomsadditions.pool_railing_end_r": "Pool Railing End L",
+  "block.lipoolroomsadditions.pool_railing_mid_i": "Pool Railing Mid I",
+  "block.lipoolroomsadditions.pool_railing_mid_t": "Pool Railing Mid T",
+  "item.lipoolroomsadditions.oak_pool_chair": "Oak Pool Chair",
+  "item.lipoolroomsadditions.oil_treated_oak_pool_chair": "Oil Treated Oak Pool Chair",
+  "item.lipoolroomsadditions.white_painted_oak_pool_chair": "White Painted Oak Pool Chair",
+  "item_group.lipoolroomsadditions.liminal_industries_poolrooms_additions": "Liminal Industries - Pool Rooms Additions",
+  "item_group.lipoolroomsadditions.li_poolrooms_additions": "LI - Poolrooms Additions"
+}
