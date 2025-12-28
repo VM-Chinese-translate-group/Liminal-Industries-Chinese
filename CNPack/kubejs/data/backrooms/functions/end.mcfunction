@@ -7,5 +7,4 @@ execute as @a[tag=!finished] at @s if dimension minecraft:the_end run title @s t
 execute as @a[tag=!finished] at @s if dimension minecraft:the_end run title @s subtitle {"translate":"escaped.subtitle","bold":true,"color":"yellow"}
 execute as @a[tag=!finished] at @s if dimension minecraft:the_end run gamerule doDaylightCycle true
 
-
 execute as @a[tag=!finished] at @s if dimension minecraft:the_end run tag @s add finished

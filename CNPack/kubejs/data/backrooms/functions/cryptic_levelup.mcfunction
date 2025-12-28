@@ -13,5 +13,4 @@ execute as @e[type=marker,tag=cryptic,scores={level=300..}] run setblock ~ ~ ~ m
 execute as @e[type=marker,tag=cryptic,scores={level=300..}] run summon item ~ ~ ~ {Motion:[0.0,0.3,0.0],Item:{id:"endrem:cryptic_eye",Count:1b}}
 execute as @e[type=marker,tag=cryptic,scores={level=300..}] run playsound minecraft:entity.evoker.cast_spell master @a ~ ~ ~ 1 0
 
-
 #execute as @e[type=marker,tag=cryptic,distance=..1] run 
