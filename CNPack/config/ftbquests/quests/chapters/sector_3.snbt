@@ -5,7 +5,7 @@
 	group: ""
 	icon: "immersiveengineering:component_electronic_adv"
 	id: "7E0E4762C458A275"
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -1208,30 +1208,11 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["2514C72B5F5115B8"]
+			dependencies: ["5CE78F3B9E2BDC0F"]
 			description: [
 				"{ftbquests.chapter.sector_3.quest44.description1}"
 				""
 				"{ftbquests.chapter.sector_3.quest44.description2}"
-			]
-			icon: "minecraft:gold_ingot"
-			id: "491DE9FB1376D10E"
-			subtitle: "{ftbquests.chapter.sector_3.quest44.subtitle}"
-			tasks: [{
-				id: "5AF2031ED9FB94D5"
-				title: "{ftbquests.chapter.sector_3.quest44.task_6553303838818538709.title}"
-				type: "checkmark"
-			}]
-			title: "{ftbquests.chapter.sector_3.quest44.title}"
-			x: -2.0d
-			y: 36.0d
-		}
-		{
-			dependencies: ["5CE78F3B9E2BDC0F"]
-			description: [
-				"{ftbquests.chapter.sector_3.quest45.description1}"
-				""
-				"{ftbquests.chapter.sector_3.quest45.description2}"
 			]
 			icon: "thermal:refined_fuel_bucket"
 			id: "641ACE318273962A"
@@ -1254,16 +1235,16 @@
 					type: "fluid"
 				}
 			]
-			title: "{ftbquests.chapter.sector_3.quest45.title}"
+			title: "{ftbquests.chapter.sector_3.quest44.title}"
 			x: -2.0d
 			y: 28.5d
 		}
 		{
 			dependencies: ["64C1F773CA05847E"]
 			description: [
-				"{ftbquests.chapter.sector_3.quest46.description1}"
+				"{ftbquests.chapter.sector_3.quest45.description1}"
 				""
-				"{ftbquests.chapter.sector_3.quest46.description2}"
+				"{ftbquests.chapter.sector_3.quest45.description2}"
 			]
 			icon: "create:asurine"
 			id: "7B6D55B255237469"
@@ -1286,36 +1267,9 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_3.quest46.title}"
+			title: "{ftbquests.chapter.sector_3.quest45.title}"
 			x: 1.0d
 			y: 10.5d
-		}
-		{
-			dependencies: ["246A2048B0070B20"]
-			description: [
-				"{ftbquests.chapter.sector_3.quest47.description1}"
-				""
-				"{ftbquests.chapter.sector_3.quest47.description2}"
-				""
-				""
-				"{ftbquests.chapter.sector_3.quest47.image0}"
-			]
-			id: "1BE7580AE542AD1A"
-			rewards: [{
-				id: "795B9FF63B49B930"
-				item: "kubejs:party_popper"
-				type: "item"
-			}]
-			subtitle: "{ftbquests.chapter.sector_3.quest47.subtitle}"
-			tasks: [{
-				count: 2L
-				id: "119B313DB024BF24"
-				item: { Count: 2, id: "kubejs:wall_destroyer" }
-				type: "item"
-			}]
-			title: "{ftbquests.chapter.sector_3.quest47.title}"
-			x: 4.0d
-			y: 18.5d
 		}
 	]
 	title: "{ftbquests.chapter.sector_3.title}"

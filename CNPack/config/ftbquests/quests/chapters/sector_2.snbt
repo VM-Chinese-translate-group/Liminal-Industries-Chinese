@@ -1071,32 +1071,6 @@
 			y: 27.0d
 		}
 		{
-			dependencies: ["33C923AD98680D89"]
-			icon: "minecraft:lapis_lazuli"
-			id: "2403865A39044ECF"
-			tasks: [
-				{
-					id: "0E7FE871C8E5A11C"
-					item: "thermal:sulfur_dust"
-					type: "item"
-				}
-				{
-					id: "2038E2FA73C03F91"
-					item: "minecraft:blue_dye"
-					type: "item"
-				}
-				{
-					count: 5L
-					id: "26067B78B222ABCF"
-					item: { Count: 5, id: "minecraft:lapis_lazuli" }
-					type: "item"
-				}
-			]
-			title: "{ftbquests.chapter.sector_2.quest30.title}"
-			x: -6.5d
-			y: 15.5d
-		}
-		{
 			dependencies: ["151585622A7F23C3"]
 			icon: "thermal:glowstone_mushroom_spores"
 			id: "0BC818BEB9B40456"
@@ -1128,16 +1102,16 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest31.title}"
+			title: "{ftbquests.chapter.sector_2.quest30.title}"
 			x: 8.0d
 			y: 29.0d
 		}
 		{
 			dependencies: ["5D74C2FDCBAA0FC7"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest32.description1}"
+				"{ftbquests.chapter.sector_2.quest31.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest32.description2}"
+				"{ftbquests.chapter.sector_2.quest31.description2}"
 			]
 			icon: "immersiveengineering:mixer"
 			id: "070593BCE7387349"
@@ -1147,7 +1121,7 @@
 				type: "item"
 			}]
 			shape: "gear"
-			subtitle: "{ftbquests.chapter.sector_2.quest32.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest31.subtitle}"
 			tasks: [
 				{
 					count: 3L
@@ -1200,7 +1174,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest32.title}"
+			title: "{ftbquests.chapter.sector_2.quest31.title}"
 			x: 0.0d
 			y: 31.0d
 		}
@@ -1247,7 +1221,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest33.title}"
+			title: "{ftbquests.chapter.sector_2.quest32.title}"
 			x: -8.0d
 			y: 8.0d
 		}
@@ -1268,7 +1242,7 @@
 				}
 				type: "item"
 			}]
-			title: "{ftbquests.chapter.sector_2.quest34.title}"
+			title: "{ftbquests.chapter.sector_2.quest33.title}"
 			x: 8.0d
 			y: 5.0d
 		}
@@ -1276,10 +1250,10 @@
 			can_repeat: true
 			dependencies: ["0D7F62210B243747"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest35.description1}"
-				"{ftbquests.chapter.sector_2.quest35.description2}"
+				"{ftbquests.chapter.sector_2.quest34.description1}"
+				"{ftbquests.chapter.sector_2.quest34.description2}"
 				""
-				"{ftbquests.chapter.sector_2.quest35.description3}"
+				"{ftbquests.chapter.sector_2.quest34.description3}"
 			]
 			icon: "eidolon:research_notes"
 			id: "07122161E18E96C1"
@@ -1297,10 +1271,10 @@
 			shape: "square"
 			tasks: [{
 				id: "50A47622AC51ADE4"
-				title: "{ftbquests.chapter.sector_2.quest35.task_5810899310506782180.title}"
+				title: "{ftbquests.chapter.sector_2.quest34.task_5810899310506782180.title}"
 				type: "checkmark"
 			}]
-			title: "{ftbquests.chapter.sector_2.quest35.title}"
+			title: "{ftbquests.chapter.sector_2.quest34.title}"
 			x: -3.5d
 			y: 8.0d
 		}
@@ -1325,8 +1299,8 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest36.title}"
-			x: 2.5d
+			title: "{ftbquests.chapter.sector_2.quest35.title}"
+			x: 1.5d
 			y: 29.5d
 		}
 		{
@@ -1335,9 +1309,9 @@
 				"5D74C2FDCBAA0FC7"
 			]
 			description: [
-				"{ftbquests.chapter.sector_2.quest37.description1}"
+				"{ftbquests.chapter.sector_2.quest36.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest37.description2}"
+				"{ftbquests.chapter.sector_2.quest36.description2}"
 			]
 			id: "6C0922865829A7FE"
 			shape: "hexagon"
@@ -1382,15 +1356,15 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest38.title}"
-			x: 2.5d
+			title: "{ftbquests.chapter.sector_2.quest37.title}"
+			x: 1.5d
 			y: 31.0d
 		}
 		{
 			dependencies: ["33C923AD98680D89"]
-			description: ["{ftbquests.chapter.sector_2.quest39.description1}"]
+			description: ["{ftbquests.chapter.sector_2.quest38.description1}"]
 			id: "54A8A17145E7BBD0"
-			subtitle: "{ftbquests.chapter.sector_2.quest39.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest38.subtitle}"
 			tasks: [{
 				id: "1B4B79A0B1BA4478"
 				item: {
@@ -1400,7 +1374,7 @@
 				}
 				type: "item"
 			}]
-			title: "{ftbquests.chapter.sector_2.quest39.title}"
+			title: "{ftbquests.chapter.sector_2.quest38.title}"
 			x: -8.0d
 			y: 13.0d
 		}
@@ -1430,7 +1404,7 @@
 				item: "thermal:area_radius_augment"
 				type: "item"
 			}]
-			subtitle: "{ftbquests.chapter.sector_2.quest41.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest40.subtitle}"
 			tasks: [
 				{
 					id: "6A6A8D6820D9F7F0"
@@ -1456,7 +1430,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest41.title}"
+			title: "{ftbquests.chapter.sector_2.quest40.title}"
 			x: 8.0d
 			y: 9.0d
 		}
@@ -1465,7 +1439,7 @@
 				"3F5758647B93803C"
 				"68905617A5751CBB"
 			]
-			description: ["{ftbquests.chapter.sector_2.quest42.description1}"]
+			description: ["{ftbquests.chapter.sector_2.quest41.description1}"]
 			icon: "create:stock_ticker"
 			id: "1FF2EB0F973B393B"
 			rewards: [
@@ -1531,7 +1505,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{ftbquests.chapter.sector_2.quest42.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest41.subtitle}"
 			tasks: [
 				{
 					id: "603BFEA945910111"
@@ -1567,16 +1541,16 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest42.title}"
+			title: "{ftbquests.chapter.sector_2.quest41.title}"
 			x: 2.5d
 			y: 5.0d
 		}
 		{
 			dependencies: ["552D47F0044BE5E4"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest43.description1}"
+				"{ftbquests.chapter.sector_2.quest42.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest43.description2}"
+				"{ftbquests.chapter.sector_2.quest42.description2}"
 			]
 			icon: "kubejs:soul_fuse"
 			id: "34E24CF953EB8B77"
@@ -1585,7 +1559,7 @@
 				item: "supplementaries:confetti_popper"
 				type: "item"
 			}]
-			subtitle: "{ftbquests.chapter.sector_2.quest43.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest42.subtitle}"
 			tasks: [
 				{
 					id: "495CA98D59DAA689"
@@ -1598,27 +1572,27 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest43.title}"
+			title: "{ftbquests.chapter.sector_2.quest42.title}"
 			x: -5.0d
 			y: 23.5d
 		}
 		{
 			dependencies: ["3EEB10E1DC378F7A"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest44.description1}"
+				"{ftbquests.chapter.sector_2.quest43.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest44.description2}"
+				"{ftbquests.chapter.sector_2.quest43.description2}"
 				""
-				"{ftbquests.chapter.sector_2.quest44.description3}"
+				"{ftbquests.chapter.sector_2.quest43.description3}"
 				""
-				"{ftbquests.chapter.sector_2.quest44.description4}"
+				"{ftbquests.chapter.sector_2.quest43.description4}"
 				""
-				"{ftbquests.chapter.sector_2.quest44.description5}"
+				"{ftbquests.chapter.sector_2.quest43.description5}"
 				""
-				"{ftbquests.chapter.sector_2.quest44.description6}"
+				"{ftbquests.chapter.sector_2.quest43.description6}"
 				""
 				""
-				"{ftbquests.chapter.sector_2.quest44.description7}"
+				"{ftbquests.chapter.sector_2.quest43.description7}"
 			]
 			icon: {
 				Count: 1
@@ -1628,7 +1602,7 @@
 				}
 			}
 			id: "240D7B64E63FCE4F"
-			subtitle: "{ftbquests.chapter.sector_2.quest44.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest43.subtitle}"
 			tasks: [
 				{
 					id: "77BA9C13CBC2B1B7"
@@ -1646,25 +1620,25 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest44.title}"
+			title: "{ftbquests.chapter.sector_2.quest43.title}"
 			x: 11.0d
 			y: 15.5d
 		}
 		{
 			dependencies: ["070593BCE7387349"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest45.description1}"
+				"{ftbquests.chapter.sector_2.quest44.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest45.description2}"
-				"{ftbquests.chapter.sector_2.quest45.description3}"
+				"{ftbquests.chapter.sector_2.quest44.description2}"
+				"{ftbquests.chapter.sector_2.quest44.description3}"
 			]
 			icon: "thermal:lead_ingot"
 			id: "69C338CC94D0129F"
-			subtitle: "{ftbquests.chapter.sector_2.quest45.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest44.subtitle}"
 			tasks: [
 				{
 					id: "4320019E3B2DD7EE"
-					title: "{ftbquests.chapter.sector_2.quest45.task_4836867778905233390.title}"
+					title: "{ftbquests.chapter.sector_2.quest44.task_4836867778905233390.title}"
 					type: "checkmark"
 				}
 				{
@@ -1673,16 +1647,16 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest45.title}"
+			title: "{ftbquests.chapter.sector_2.quest44.title}"
 			x: 2.5d
 			y: 35.0d
 		}
 		{
 			dependencies: ["3F5758647B93803C"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest46.description1}"
+				"{ftbquests.chapter.sector_2.quest45.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest46.description2}"
+				"{ftbquests.chapter.sector_2.quest45.description2}"
 			]
 			icon: "kubejs:putty_knife"
 			id: "383ABAC05F6FC6F0"
@@ -1696,7 +1670,7 @@
 		}
 		{
 			dependencies: ["451A79187DD84C9A"]
-			description: ["{ftbquests.chapter.sector_2.quest47.description1}"]
+			description: ["{ftbquests.chapter.sector_2.quest46.description1}"]
 			icon: "kubejs:cobblestone_bucket"
 			id: "3A9977E34730F5AB"
 			rewards: [{
@@ -1727,7 +1701,7 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest47.title}"
+			title: "{ftbquests.chapter.sector_2.quest46.title}"
 			x: 8.0d
 			y: 20.0d
 		}
@@ -1735,7 +1709,7 @@
 			dependencies: ["3DB2E63B62BA0311"]
 			icon: "minecraft:jukebox"
 			id: "5D6B1E47B0B431EF"
-			subtitle: "{ftbquests.chapter.sector_2.quest48.subtitle}"
+			subtitle: "{ftbquests.chapter.sector_2.quest47.subtitle}"
 			tasks: [
 				{
 					id: "15ADEA9F69B2672C"
@@ -1762,16 +1736,16 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest48.title}"
+			title: "{ftbquests.chapter.sector_2.quest47.title}"
 			x: -2.5d
 			y: 5.0d
 		}
 		{
 			dependencies: ["55B7C4D0E5890406"]
 			description: [
-				"{ftbquests.chapter.sector_2.quest49.description1}"
+				"{ftbquests.chapter.sector_2.quest48.description1}"
 				""
-				"{ftbquests.chapter.sector_2.quest49.description2}"
+				"{ftbquests.chapter.sector_2.quest48.description2}"
 			]
 			icon: "minecraft:charcoal"
 			id: "68E4B9DBC0F448C7"
@@ -1787,9 +1761,26 @@
 					type: "item"
 				}
 			]
-			title: "{ftbquests.chapter.sector_2.quest49.title}"
+			title: "{ftbquests.chapter.sector_2.quest48.title}"
 			x: 11.0d
 			y: 23.0d
+		}
+		{
+			dependencies: ["5D74C2FDCBAA0FC7"]
+			description: ["{ftbquests.chapter.sector_2.quest49.description1}"]
+			icon: "kubejs:drain"
+			id: "62905CF8D9082304"
+			shape: "square"
+			size: 1.0d
+			subtitle: "{ftbquests.chapter.sector_2.quest49.subtitle}"
+			tasks: [{
+				id: "7F5CD57C58A33F9F"
+				item: "kubejs:crowbar"
+				type: "item"
+			}]
+			title: "{ftbquests.chapter.sector_2.quest49.title}"
+			x: -1.5d
+			y: 29.5d
 		}
 	]
 	title: "{ftbquests.chapter.sector_2.title}"
