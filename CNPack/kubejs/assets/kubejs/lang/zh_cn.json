@@ -22,8 +22,6 @@
     "block.kubejs.long_pool_tiles_stairs": "泳池瓷砖楼梯",
     "block.kubejs.pool_locker_single": "泳池储物柜",
     "block.kubejs.pool_locker_double": "泳池储物柜",
-    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
-    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
     
     "block.kubejs.ceilling": "天花板",
     "block.kubejs.ceilling2": "天花板",
@@ -34,6 +32,7 @@
     "block.kubejs.ceilling_lamp": "顶灯",
     "block.kubejs.ceilling_lamp2": "顶灯",
     "block.kubejs.ceilling_lamp_off": "顶灯",
+
     "block.kubejs.carpet": "地毯",
     "block.kubejs.carpet_slab": "地毯台阶",
     "block.kubejs.carpet_stairs": "地毯楼梯",
@@ -44,15 +43,20 @@
     "block.kubejs.soggy_carpet": "潮湿地毯",
     "block.kubejs.oil_carpet": "浸满石油的地毯",
     "block.kubejs.drain": "地漏",
+    "block.kubejs.drain_breakable": "地漏",
     "block.kubejs.floor_tiles": "地砖",
+    "block.kubejs.floor_tiles_infinite": "地砖",
     "block.kubejs.floor_tiles_full": "地砖",
     "block.kubejs.carpet_grass": "地毯草",
     "block.kubejs.error": "除以零",
     "block.kubejs.error_carpet": "除以零",
     "block.kubejs.error_wallpaper": "除以零",
+
     "block.kubejs.reality_controller": "现实控制器",
     "block.kubejs.reality_controller_running": "现实控制器",
+
     "block.kubejs.power_house": "电站",
+
     "block.kubejs.traffic_pole": "标志",
     "block.kubejs.arrow1_sign": "标志",
     "block.kubejs.arrow2_sign": "标志",
@@ -76,18 +80,22 @@
     "block.kubejs.tripple_sign": "标志",
     "block.kubejs.turn_back_sign": "标志",
     "block.kubejs.inkblod_sign": "标志",
+
     "block.kubejs.sculk_carapace": "幽匿甲壳",
     "block.kubejs.porous_stone": "多孔石",
     "block.kubejs.sculk_tendrils": "幽匿卷须",
     "block.kubejs.sculk_slab": "幽匿台阶",
     "block.kubejs.sculk_stairs": "幽匿楼梯",
     "block.kubejs.sculk_shroom": "幽匿蘑菇",
+
     "block.kubejs.light_engineering_empty": "轻型工程框架",
     "block.kubejs.heavy_engineering_empty": "重型工程框架",
     "block.kubejs.half_frame_bottom": "机器框架底部",
     "block.kubejs.half_frame_top": "机器框架顶部",
+
     "block.kubejs.batteries": "电池",
     "block.kubejs.red_tape": "红色胶带",
+
     "block.kubejs.wall_destroyer": "打孔机",
     "block.kubejs.reality_frame": "现实框架",
     "block.kubejs.reality_charge": "现实充能器",
@@ -95,6 +103,7 @@
     "block.kubejs.sculk_scrubber": "幽匿净化器",
     "block.kubejs.sculked_sculk_scrubber": "沾满幽匿的幽匿净化器",
     "block.kubejs.lost_eye": "迷离之眼",
+    "block.kubejs.exotic_eye": "异国之眼",
 
     "item.kubejs.incomplete_component_electronic": "电子元件（半成品）",
     "item.kubejs.incomplete_component_electronic_adv": "高级电子元件（半成品）",
@@ -122,6 +131,8 @@
     "item.kubejs.ai": "人工智能",
     "item.kubejs.quantum_string": "量子线",
     "item.kubejs.cobblestone_bucket": "圆石桶",
+    "item.kubejs.crowbar": "撬棍",
+
     "item.kubejs.reality_storage_empty": "空现实存储元件",
     "item.kubejs.reality_storage_cell1": "现实存储元件",
     "item.kubejs.data_chip1": "数据芯片",
@@ -172,7 +183,17 @@
     "event.sculk_scrubber.rightclick.1": "幽匿净化器需要放置在幽匿块上！",
 
     "cryptic_levelup.title": "知识已吸收，再喂我更多……",
-    "spread_furniture.success": "成功在半径300格内散布了20件家具"
+    "spread_furniture.success": "成功在半径300格内散布了20件家具",
+
+    "block.kubejs.pool_tiles_sky": "泳池瓷砖",
+    "block.kubejs.pool_tiles_wet": "湿滑泳池瓷砖",
+    "block.kubejs.pool_tiles_golden": "金质泳池瓷砖",
+    "block.kubejs.pool_tiles_golden_half": "金质泳池瓷砖",
+    "block.kubejs.missing_tiles_empty": "缺片泳池瓷砖",
+    "block.kubejs.missing_tiles_half": "缺片泳池瓷砖",
+
+    "item.kubejs.pool_tile": "瓷片",
+    "item.kubejs.pool_tile_golden": "金质瓷片"
 }
 
 

@@ -1,0 +1,19 @@
+{
+  "block.lipoolroomsadditions.oak_pool_chair_back": "橡木泳池躺椅",
+  "block.lipoolroomsadditions.oak_pool_chair_front": "橡木泳池躺椅",
+  "block.lipoolroomsadditions.oil_treated_oak_pool_chair_back": "防腐橡木泳池躺椅",
+  "block.lipoolroomsadditions.oil_treated_oak_pool_chair_front": "防腐橡木泳池躺椅",
+  "block.lipoolroomsadditions.white_painted_oak_pool_chair_back": "白色橡木泳池躺椅",
+  "block.lipoolroomsadditions.white_painted_oak_pool_chair_front": "白色橡木泳池躺椅",
+  "block.lipoolroomsadditions.pool_railing_bend_inner": "泳池栏杆内弯",
+  "block.lipoolroomsadditions.pool_railing_bend_outer": "泳池栏杆外弯",
+  "block.lipoolroomsadditions.pool_railing_end_l": "泳池栏杆L型末段",
+  "block.lipoolroomsadditions.pool_railing_end_r": "泳池栏杆L型末段",
+  "block.lipoolroomsadditions.pool_railing_mid_i": "泳池栏杆I型中段",
+  "block.lipoolroomsadditions.pool_railing_mid_t": "泳池栏杆T型中段",
+  "item.lipoolroomsadditions.oak_pool_chair": "橡木泳池躺椅",
+  "item.lipoolroomsadditions.oil_treated_oak_pool_chair": "防腐橡木泳池躺椅",
+  "item.lipoolroomsadditions.white_painted_oak_pool_chair": "白色橡木泳池躺椅",
+  "item_group.lipoolroomsadditions.liminal_industries_poolrooms_additions": "阈限工业 - 泳池扩展",
+  "item_group.lipoolroomsadditions.li_poolrooms_additions": "阈限工业 - 泳池扩展"
+}
