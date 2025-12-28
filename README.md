@@ -4,7 +4,7 @@
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
 | :------------- | :--------- | :----------------- | :----------- |
-| [链接](https://www.curseforge.com/minecraft/modpacks/liminal-industries) | Forge | mc1.20.1 1.17 | 维护中       |
+| [链接](https://www.curseforge.com/minecraft/modpacks/liminal-industries) | Forge | mc1.20.1 1.18 | 维护中       |
 
 ---
 
@@ -65,6 +65,7 @@ Push your creations to their limits to escape into the overworld.
 同步最新kubejs
 
 检查是否有未翻译的新模组添加
+- Liminal Industries - Poolroooms Additions
 
 
 > 如果项目已经完成，请在仓库设置（`Settings`）中禁用工作流运行。
