@@ -183,7 +183,17 @@
     "event.sculk_scrubber.rightclick.1": "You need to place the scrubber on sculk!",
 
     "cryptic_levelup.title": "Knowlege absorbed, feed me more...",
-    "spread_furniture.success": "Successfully scattered 20 pieces of common furniture in a 300 block radius"
+    "spread_furniture.success": "Successfully scattered 20 pieces of common furniture in a 300 block radius",
+
+    "block.kubejs.pool_tiles_sky": "Pool Tiles",
+    "block.kubejs.pool_tiles_wet": "Wet Pool Tiles",
+    "block.kubejs.pool_tiles_golden": "Golden Pool Tiles",
+    "block.kubejs.pool_tiles_golden_half": "Golden Pool Tiles",
+    "block.kubejs.missing_tiles_empty": "Missing Pool Tiles",
+    "block.kubejs.missing_tiles_half": "Missing Pool Tiles",
+
+    "item.kubejs.pool_tile": "Pool Tile",
+    "item.kubejs.pool_tile_golden": "Golden Pool Tile"
 }
 
 
