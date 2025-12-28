@@ -1,1 +1,0 @@
-summon marker ~ ~ ~ {CustomName:'{"text":"catalyst_death"}'}
