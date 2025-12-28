@@ -22,8 +22,6 @@
     "block.kubejs.long_pool_tiles_stairs": "Pool Tiles Stairs",
     "block.kubejs.pool_locker_single": "Pool Locker",
     "block.kubejs.pool_locker_double": "Pool Locker",
-    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
-    "block.kubejs.long_pool_tiles_slab": "Pool Tiles Slab",
     
     "block.kubejs.ceilling": "Ceiling",
     "block.kubejs.ceilling2": "Ceiling",
@@ -34,6 +32,7 @@
     "block.kubejs.ceilling_lamp": "Ceiling Lamp",
     "block.kubejs.ceilling_lamp2": "Ceiling Lamp",
     "block.kubejs.ceilling_lamp_off": "Ceiling Lamp",
+
     "block.kubejs.carpet": "Carpet",
     "block.kubejs.carpet_slab": "Carpet Slab",
     "block.kubejs.carpet_stairs": "Carpet Stairs",
@@ -44,15 +43,20 @@
     "block.kubejs.soggy_carpet": "Soggy Carpet",
     "block.kubejs.oil_carpet": "Crude Oil Soaked Carpet",
     "block.kubejs.drain": "Drain",
+    "block.kubejs.drain_breakable": "Drain",
     "block.kubejs.floor_tiles": "Floor Tiles",
+    "block.kubejs.floor_tiles_infinite": "Floor Tiles",
     "block.kubejs.floor_tiles_full": "Floor Tiles",
     "block.kubejs.carpet_grass": "Carpet Grass",
     "block.kubejs.error": "Divided by Zero",
     "block.kubejs.error_carpet": "Divided by Zero",
     "block.kubejs.error_wallpaper": "Divided by Zero",
+
     "block.kubejs.reality_controller": "Reality Controller",
     "block.kubejs.reality_controller_running": "Reality Controller",
+
     "block.kubejs.power_house": "Power House",
+
     "block.kubejs.traffic_pole": "sign",
     "block.kubejs.arrow1_sign": "sign",
     "block.kubejs.arrow2_sign": "sign",
@@ -76,18 +80,22 @@
     "block.kubejs.tripple_sign": "sign",
     "block.kubejs.turn_back_sign": "sign",
     "block.kubejs.inkblod_sign": "sign",
+
     "block.kubejs.sculk_carapace": "Sculk Carapace",
     "block.kubejs.porous_stone": "Porous Stone",
     "block.kubejs.sculk_tendrils": "Sculk Tendrils",
     "block.kubejs.sculk_slab": "Sculk Slab",
     "block.kubejs.sculk_stairs": "Sculk Stairs",
     "block.kubejs.sculk_shroom": "Sculk Shroom",
+
     "block.kubejs.light_engineering_empty": "Light Engineering Frame",
     "block.kubejs.heavy_engineering_empty": "Heavy Engineering Frame",
     "block.kubejs.half_frame_bottom": "Bottom of a Machine Frame",
     "block.kubejs.half_frame_top": "Top of a Machine Frame",
+
     "block.kubejs.batteries": "Batteries",
     "block.kubejs.red_tape": "Red Tape",
+
     "block.kubejs.wall_destroyer": "Wall Piercer",
     "block.kubejs.reality_frame": "Reality Frame",
     "block.kubejs.reality_charge": "Reality Charge",
@@ -95,6 +103,7 @@
     "block.kubejs.sculk_scrubber": "Sculk Scrubber",
     "block.kubejs.sculked_sculk_scrubber": "Sculked Sculk Scrubber",
     "block.kubejs.lost_eye": "Lost Eye",
+    "block.kubejs.exotic_eye": "Exotic Eye",
 
     "item.kubejs.incomplete_component_electronic": "Incomplete Electronic Component",
     "item.kubejs.incomplete_component_electronic_adv": "Incomplete Advanced Electronic Component",
@@ -122,6 +131,8 @@
     "item.kubejs.ai": "Artificial Intelligence",
     "item.kubejs.quantum_string": "Quantum String",
     "item.kubejs.cobblestone_bucket": "Bucket of Cobblestone",
+    "item.kubejs.crowbar": "Crowbar",
+
     "item.kubejs.reality_storage_empty": "Empty Reality Storage Cell",
     "item.kubejs.reality_storage_cell1": "Reality Storage Cell",
     "item.kubejs.data_chip1": "Data Chip",
