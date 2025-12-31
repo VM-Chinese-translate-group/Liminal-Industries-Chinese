@@ -68,8 +68,8 @@
 				}
 			]
 			title: "{ftbquests.chapter.chapter_3b.quest2.title}"
-			x: 8.5d
-			y: 3.5d
+			x: 5.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["4747407A1597CC43"]
@@ -101,7 +101,7 @@
 			]
 			title: "{ftbquests.chapter.chapter_3b.quest3.title}"
 			x: 7.5d
-			y: 8.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["56A5BCD5589DA06C"]
@@ -218,7 +218,7 @@
 				type: "item"
 			}]
 			title: "{ftbquests.chapter.chapter_3b.quest7.title}"
-			x: -8.5d
+			x: -9.0d
 			y: 3.5d
 		}
 		{
@@ -311,8 +311,8 @@
 				type: "item"
 			}]
 			title: "{ftbquests.chapter.chapter_3b.quest10.title}"
-			x: 5.0d
-			y: 9.5d
+			x: 2.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["56A5BCD5589DA06C"]
@@ -343,8 +343,8 @@
 				}
 			]
 			title: "{ftbquests.chapter.chapter_3b.quest11.title}"
-			x: 5.0d
-			y: 7.5d
+			x: 2.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["56A5BCD5589DA06C"]
@@ -365,8 +365,56 @@
 				type: "item"
 			}]
 			title: "{ftbquests.chapter.chapter_3b.quest12.title}"
-			x: 2.5d
-			y: 8.5d
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["43F641A648AB6462"]
+			description: [
+				"{ftbquests.chapter.chapter_3b.quest13.description1}"
+				""
+				"{ftbquests.chapter.chapter_3b.quest13.description2}"
+				""
+				"{ftbquests.chapter.chapter_3b.quest13.description3}"
+			]
+			icon: {
+				Count: 1
+				id: "enderchests:ender_chest"
+				tag: {
+					code: "000"
+					owner: "all"
+				}
+			}
+			id: "5F72147C00F399D8"
+			rewards: [{
+				id: "587933AC832EDA2E"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			subtitle: "{ftbquests.chapter.chapter_3b.quest13.subtitle}"
+			tasks: [
+				{
+					count: 4L
+					id: "26197567375BF0C2"
+					item: { Count: 4, id: "kubejs:reality_alloy" }
+					type: "item"
+				}
+				{
+					id: "6D69388F3C932BE5"
+					item: {
+						Count: 1
+						id: "enderchests:ender_chest"
+						tag: {
+							code: "000"
+							owner: "all"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "{ftbquests.chapter.chapter_3b.quest13.title}"
+			x: 5.0d
+			y: 9.5d
 		}
 	]
 	title: "{ftbquests.chapter.chapter_3b.title}"
